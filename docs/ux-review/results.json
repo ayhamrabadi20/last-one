@@ -1,0 +1,631 @@
+{
+  "results": [
+    {
+      "page": "login",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "تسجيل الدخول | Mustanad Jo",
+      "headings": [
+        "أهلًا بعودتك"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "submitBottom": 655.5,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 10.35
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "login",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "تسجيل الدخول | Mustanad Jo",
+      "headings": [
+        "أهلًا بعودتك"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "submitBottom": 606.5,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 11.9
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "login",
+      "width": 320,
+      "scrollWidth": 320,
+      "title": "تسجيل الدخول | Mustanad Jo",
+      "headings": [
+        "أهلًا بعودتك"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "submitBottom": 655.5,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 10.35
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Mustanad Jo | رحلتك لبدء المشروع",
+      "headings": [
+        "فكرتك تستحق بداية.خلّينا نرتّب خطّتك."
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "submitBottom": 815,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "button[aria-pressed=\"true\"]",
+          "ratio": 7.54
+        },
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 9.14
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "Mustanad Jo | رحلتك لبدء المشروع",
+      "headings": [
+        "فكرتك تستحق بداية.خلّينا نرتّب خطّتك."
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "submitBottom": 815,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "button[aria-pressed=\"true\"]",
+          "ratio": 12.28
+        },
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 12.6
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "Mustanad Jo | رحلتك لبدء المشروع",
+      "headings": [
+        "فكرتك تستحق بداية.خلّينا نرتّب خطّتك."
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "submitBottom": 803.59375,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "button[aria-pressed=\"true\"]",
+          "ratio": 7.54
+        },
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 9.14
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "Mustanad Jo | رحلتك لبدء المشروع",
+      "headings": [
+        "فكرتك تستحق بداية.خلّينا نرتّب خطّتك."
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "submitBottom": 803.59375,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "button[aria-pressed=\"true\"]",
+          "ratio": 12.28
+        },
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 12.6
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "profile",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "ملفي الشخصي | Mustanad Jo",
+      "headings": [
+        "أهلًا، مستخدم التجربة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 10.31
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "profile",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "ملفي الشخصي | Mustanad Jo",
+      "headings": [
+        "أهلًا، مستخدم التجربة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 11.9
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "profile",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "ملفي الشخصي | Mustanad Jo",
+      "headings": [
+        "أهلًا، مستخدم التجربة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 10.31
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "profile",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "ملفي الشخصي | Mustanad Jo",
+      "headings": [
+        "أهلًا، مستخدم التجربة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 11.9
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "history",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "طلباتي وردودي | Mustanad Jo",
+      "headings": [
+        "الطلبات والردود السابقة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "history",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "طلباتي وردودي | Mustanad Jo",
+      "headings": [
+        "الطلبات والردود السابقة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "history",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "طلباتي وردودي | Mustanad Jo",
+      "headings": [
+        "الطلبات والردود السابقة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "history",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "title": "طلباتي وردودي | Mustanad Jo",
+      "headings": [
+        "الطلبات والردود السابقة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "support",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "مركز الدعم | Mustanad Jo",
+      "headings": [
+        "خلّينا نعرف وين المشكلة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 10.31
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "support",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "مركز الدعم | Mustanad Jo",
+      "headings": [
+        "خلّينا نعرف وين المشكلة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 11.9
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "support",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "مركز الدعم | Mustanad Jo",
+      "headings": [
+        "خلّينا نعرف وين المشكلة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 10.31
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "support",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "مركز الدعم | Mustanad Jo",
+      "headings": [
+        "خلّينا نعرف وين المشكلة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": ".auth-label",
+          "ratio": 11.9
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "sources",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "المصادر والأدلة | Mustanad Jo",
+      "headings": [
+        "سجل المصادر والأدلة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "sources",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "المصادر والأدلة | Mustanad Jo",
+      "headings": [
+        "سجل المصادر والأدلة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "sources",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "المصادر والأدلة | Mustanad Jo",
+      "headings": [
+        "سجل المصادر والأدلة"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "sources",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "المصادر والأدلة | Mustanad Jo",
+      "headings": [
+        "سجل المصادر والأدلة"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "explore",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "خطة المشروع | Mustanad Jo",
+      "headings": [
+        "خطة مشروعك: محل حلويات"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "explore",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "خطة المشروع | Mustanad Jo",
+      "headings": [
+        "خطة مشروعك: محل حلويات"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "explore",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "خطة المشروع | Mustanad Jo",
+      "headings": [
+        "خطة مشروعك: محل حلويات"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "explore",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "خطة المشروع | Mustanad Jo",
+      "headings": [
+        "خطة مشروعك: محل حلويات"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [],
+      "overflow": false
+    },
+    {
+      "page": "journey",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "رحلة الإجراءات | Mustanad Jo",
+      "headings": [
+        "تأسيس مؤسسة فردية لبيع الملابس"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 9.14
+        },
+        {
+          "selector": ".bg-teal-800.text-white .text-teal-100",
+          "ratio": 6.68
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "journey",
+      "width": 390,
+      "scrollWidth": 390,
+      "title": "رحلة الإجراءات | Mustanad Jo",
+      "headings": [
+        "تأسيس مؤسسة فردية لبيع الملابس"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 12.6
+        },
+        {
+          "selector": ".bg-teal-800.text-white .text-teal-100",
+          "ratio": 5.76
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "journey",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "رحلة الإجراءات | Mustanad Jo",
+      "headings": [
+        "تأسيس مؤسسة فردية لبيع الملابس"
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 9.14
+        },
+        {
+          "selector": ".bg-teal-800.text-white .text-teal-100",
+          "ratio": 6.68
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "journey",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "title": "رحلة الإجراءات | Mustanad Jo",
+      "headings": [
+        "تأسيس مؤسسة فردية لبيع الملابس"
+      ],
+      "theme": "dark",
+      "skipTarget": true,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 12.6
+        },
+        {
+          "selector": ".bg-teal-800.text-white .text-teal-100",
+          "ratio": 5.76
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "page": "home",
+      "width": 320,
+      "scrollWidth": 320,
+      "title": "Mustanad Jo | رحلتك لبدء المشروع",
+      "headings": [
+        "فكرتك تستحق بداية.خلّينا نرتّب خطّتك."
+      ],
+      "theme": "light",
+      "skipTarget": true,
+      "submitBottom": 855.5,
+      "unlabelled": 0,
+      "contrast": [
+        {
+          "selector": "button[aria-pressed=\"true\"]",
+          "ratio": 7.54
+        },
+        {
+          "selector": "[role=\"status\"].bg-emerald-50",
+          "ratio": 9.14
+        }
+      ],
+      "overflow": false
+    }
+  ],
+  "checks": [
+    {
+      "name": "login form opens the owner profile",
+      "passed": true
+    },
+    {
+      "name": "Escape closes the menu and restores focus",
+      "passed": true
+    },
+    {
+      "name": "appearance selection persists to the signed-in account",
+      "passed": true
+    },
+    {
+      "name": "saved dark appearance survives navigation",
+      "passed": true
+    },
+    {
+      "name": "history opens the stored details without another generation",
+      "passed": true
+    },
+    {
+      "name": "reading history creates no new interactions",
+      "passed": true
+    },
+    {
+      "name": "waiting disables editing of the in-flight question",
+      "passed": true
+    },
+    {
+      "name": "cancel restores control and explains the result",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

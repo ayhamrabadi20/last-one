@@ -1,0 +1,92 @@
+[
+  {
+    "id": "register-sole-proprietorship",
+    "titleAr": "راجع تسجيل المؤسسة الفردية",
+    "authority": "وزارة الصناعة والتجارة والتموين",
+    "scope": "مسودة لمسار مؤسسة فردية في الأردن",
+    "conditions": {
+      "op": "all",
+      "conditions": [
+        { "op": "equals", "field": "activityId", "value": "clothing-retail" },
+        { "op": "equals", "field": "legalForm", "value": "sole-proprietorship" }
+      ]
+    },
+    "dependsOn": [],
+    "requiredDocuments": [],
+    "actionSteps": [
+      "فعّل هويتك الإلكترونية وحمّل تطبيق سند بحسب صفحة الوزارة.",
+      "ادخل إلى خدمة المؤسسات الفردية من رابط الوزارة الرسمي.",
+      "تحقق من وصف غاية بيع الملابس وتصنيف النشاط قبل الإرسال."
+    ],
+    "evidenceChunkIds": ["mit-registration-links", "mit-sanad-access"],
+    "reviewStatus": "demo",
+    "explanationAr": "تسجيل المؤسسة هو نقطة البداية المقترحة لربط نشاطك بكيان فردي. تفاصيل المستندات والرسوم لم تعتمد في هذه النسخة."
+  },
+  {
+    "id": "premises-proof-rent",
+    "titleAr": "جهّز إثبات إشغال الموقع المستأجر",
+    "authority": "أمانة عمّان الكبرى",
+    "scope": "مثال تجريبي مبني على بطاقة رسمية قديمة تحتاج تحققًا حديثًا",
+    "conditions": { "op": "equals", "field": "premisesTenure", "value": "rent" },
+    "dependsOn": ["register-sole-proprietorship"],
+    "requiredDocuments": [
+      {
+        "id": "certified-lease-contract",
+        "titleAr": "عقد إيجار مصدّق",
+        "evidenceChunkIds": ["gam-tenure-documents", "gam-current-eservices"]
+      }
+    ],
+    "actionSteps": ["تحقق من تسجيل عقد الإيجار وتصديقه عبر خدمة الأمانة قبل طلب الرخصة."],
+    "evidenceChunkIds": ["gam-tenure-documents", "gam-current-eservices"],
+    "reviewStatus": "demo",
+    "explanationAr": "المصدر القديم يفرّق بين الموقع المستأجر والمملوك، والبوابة الحالية تعرض خدمة تسجيل عقود الإيجار. يلزم مراجع بشري لتأكيد انطباق التفاصيل الحالية."
+  },
+  {
+    "id": "premises-proof-own",
+    "titleAr": "جهّز إثبات ملكية الموقع",
+    "authority": "أمانة عمّان الكبرى",
+    "scope": "مثال تجريبي مبني على بطاقة رسمية قديمة تحتاج تحققًا حديثًا",
+    "conditions": { "op": "equals", "field": "premisesTenure", "value": "own" },
+    "dependsOn": ["register-sole-proprietorship"],
+    "requiredDocuments": [
+      {
+        "id": "property-registration-copy",
+        "titleAr": "صورة عن سند التسجيل",
+        "evidenceChunkIds": ["gam-tenure-documents"]
+      }
+    ],
+    "actionSteps": ["جهّز صورة سند التسجيل المطابقة للموقع قبل طلب الرخصة."],
+    "evidenceChunkIds": ["gam-tenure-documents"],
+    "reviewStatus": "demo",
+    "explanationAr": "يعرض المثال اختلاف مستند الموقع عند الملكية، لكنه يبقى مسودة حتى مراجعة بطاقة خدمة حديثة للمحل التجاري."
+  },
+  {
+    "id": "apply-profession-license",
+    "titleAr": "راجع طلب رخصة المهن للمحل",
+    "authority": "أمانة عمّان الكبرى",
+    "scope": "مسودة لمسار رخصة مهن في عمّان",
+    "conditions": {
+      "op": "all",
+      "conditions": [
+        { "op": "equals", "field": "municipalityId", "value": "amman" },
+        { "op": "in", "field": "premisesTenure", "values": ["rent", "own"] }
+      ]
+    },
+    "dependsOn": ["register-sole-proprietorship"],
+    "requiredDocuments": [
+      {
+        "id": "valid-occupancy-permit",
+        "titleAr": "إذن إشغال ساري المفعول (يحتاج تحققًا حديثًا)",
+        "evidenceChunkIds": ["gam-other-license-documents"]
+      }
+    ],
+    "actionSteps": [
+      "ادخل إلى نظام رخص المهن من بوابة الأمانة.",
+      "تحقق من تعليمات نشاط بيع الملابس والموافقات المطلوبة قبل تقديم الطلب.",
+      "قدّم المستندات التي تؤكدها بطاقة الخدمة الحالية فقط."
+    ],
+    "evidenceChunkIds": ["gam-other-license-documents", "gam-license-process", "gam-current-eservices"],
+    "reviewStatus": "demo",
+    "explanationAr": "الرخصة البلدية مرتبطة بموقع النشاط ونوع المهنة. لا تعرض النسخة رسومًا أو مدة لأن الدليل الحديث التفصيلي لم يُراجع بعد."
+  }
+]

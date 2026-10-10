@@ -1,0 +1,278 @@
+[
+  {
+    "page": "login-900",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "submitBottom": 599.5,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 900,
+    "height": 900,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-900",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "submitBottom": 599.5,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 900,
+    "height": 900,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-768",
+    "width": 1366,
+    "scrollWidth": 1366,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "submitBottom": 533.5,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 768,
+    "height": 768,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-768",
+    "width": 1366,
+    "scrollWidth": 1366,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "submitBottom": 533.5,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 768,
+    "height": 768,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-600",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "submitBottom": 420.09375,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 600,
+    "height": 600,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-600",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "submitBottom": 420.09375,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 600,
+    "height": 600,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-844",
+    "width": 390,
+    "scrollWidth": 390,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "submitBottom": 609.5,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 844,
+    "height": 844,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-844",
+    "width": 390,
+    "scrollWidth": 390,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "submitBottom": 609.5,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 844,
+    "height": 844,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-640",
+    "width": 360,
+    "scrollWidth": 360,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "submitBottom": 478.09375,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 640,
+    "height": 640,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-640",
+    "width": 360,
+    "scrollWidth": 360,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "submitBottom": 478.09375,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 640,
+    "height": 640,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-568",
+    "width": 320,
+    "scrollWidth": 320,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "submitBottom": 453.28125,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 568,
+    "height": 568,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "login-568",
+    "width": 320,
+    "scrollWidth": 320,
+    "title": "تسجيل الدخول | Mustanad Jo",
+    "headings": [
+      "أهلًا بعودتك"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "submitBottom": 453.28125,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 568,
+    "height": 568,
+    "formScroll": 0,
+    "overflow": false
+  }
+]

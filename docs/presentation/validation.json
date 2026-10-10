@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-10",
+  "scope": "Application verification evidence from preparation; final presentation verified separately in final-validation.json",
+  "unitTests": {
+    "passed": 154,
+    "filesPassed": 24,
+    "rerunDuringPreparation": true
+  },
+  "typecheck": "passed",
+  "lint": "passed",
+  "build": "passed",
+  "presentation": {
+    "pptx": "Mustanad-Jo-Final.pptx",
+    "pdf": "Mustanad-Jo-Final.pdf",
+    "pptxSlides": 17,
+    "pdfPages": 17,
+    "speakerNotes": 17,
+    "plannedPresentationAndDemoSeconds": 420,
+    "judgesQuestionsSeconds": 180,
+    "format": "16:9",
+    "validationReport": "final-validation.json"
+  },
+  "liveAIRechecked": false,
+  "readmeSetupVerification": {
+    "randomAuthSecret": "passed",
+    "existingEnvRetained": true,
+    "isolatedFreshDatabase": "passed",
+    "seedRepeatable": true,
+    "demoPasswordHashed": true,
+    "sessionTTL": true,
+    "temporaryDatabaseRemoved": true
+  },
+  "historicalEvidence": {
+    "accountManagementChecks": 39,
+    "uxViews": 32,
+    "uxInteractionChecks": 8,
+    "loginLayoutCases": 12,
+    "registerLayoutCases": 12
+  },
+  "limitations": [
+    "Historical evidence is separate from this preparation run",
+    "No distributed load test",
+    "No human usability study",
+    "No independent penetration test",
+    "No separate macOS/Linux machine test",
+    "GitHub publication and submission are not performed"
+  ]
+}

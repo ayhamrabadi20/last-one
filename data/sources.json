@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mit-individual-establishments",
+    "titleAr": "المؤسسات الفردية والأسماء التجارية",
+    "authority": "وزارة الصناعة والتجارة والتموين",
+    "url": "https://mit.gov.jo/Ar/Pages/المؤسسات_الفردية_والأسماء_التجارية",
+    "retrievedAt": "2026-10-09",
+    "publishedAt": null,
+    "contentReviewedAt": null,
+    "reviewStatus": "pending",
+    "noteAr": "صفحة رسمية حالية تجمع روابط التسجيل ودليل المستخدم والاستعلام والتصنيف؛ تحتاج مراجعة بشرية قبل اعتماد متطلبات تفصيلية."
+  },
+  {
+    "id": "mit-sanad-registration",
+    "titleAr": "تسجيل الأسماء التجارية والمؤسسات الفردية",
+    "authority": "وزارة الصناعة والتجارة والتموين",
+    "url": "https://www.mit.gov.jo/AR/Pages/تسجيل_الاسماء_التجارية_والمؤسسات_الفردية",
+    "retrievedAt": "2026-10-09",
+    "publishedAt": null,
+    "contentReviewedAt": null,
+    "reviewStatus": "pending",
+    "noteAr": "تذكر الصفحة تفعيل الهوية الإلكترونية وتطبيق سند للوصول إلى خدمات الوزارة."
+  },
+  {
+    "id": "gam-profession-license-2017",
+    "titleAr": "بطاقة رخصة مهن جديدة (لأول مرة) ضمن السكن",
+    "authority": "أمانة عمّان الكبرى",
+    "url": "https://ammancity.gov.jo/site_doc/daleel/34.pdf",
+    "retrievedAt": "2026-10-09",
+    "publishedAt": "2017",
+    "contentReviewedAt": null,
+    "reviewStatus": "pending",
+    "noteAr": "مصدر رسمي قديم نسبيًا يثبت تفرع الملكية/الإيجار، لكنه لا يثبت حداثة الإجراءات ولا انطباق عنوان «ضمن السكن» على محل تجاري؛ يستخدم في وضع demo فقط."
+  },
+  {
+    "id": "gam-eservices-portal",
+    "titleAr": "بوابة الخدمات الإلكترونية",
+    "authority": "أمانة عمّان الكبرى",
+    "url": "https://ammancity.gov.jo/ar/gameservices/eservices.aspx",
+    "retrievedAt": "2026-10-09",
+    "publishedAt": null,
+    "contentReviewedAt": null,
+    "reviewStatus": "pending",
+    "noteAr": "مدخل حالي يعرض نظام رخص المهن وخدمة تسجيل عقود الإيجار إلكترونيًا، دون بطاقة حديثة كاملة للرخصة الجديدة."
+  }
+]

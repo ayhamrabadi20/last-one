@@ -1,0 +1,266 @@
+[
+  {
+    "page": "register-900",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 900,
+    "height": 900,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-900",
+    "width": 1440,
+    "scrollWidth": 1440,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 900,
+    "height": 900,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-768",
+    "width": 1366,
+    "scrollWidth": 1366,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 768,
+    "height": 768,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-768",
+    "width": 1366,
+    "scrollWidth": 1366,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 768,
+    "height": 768,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-600",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 600,
+    "height": 600,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-600",
+    "width": 1024,
+    "scrollWidth": 1024,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 600,
+    "height": 600,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-844",
+    "width": 390,
+    "scrollWidth": 390,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 844,
+    "height": 844,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-844",
+    "width": 390,
+    "scrollWidth": 390,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 844,
+    "height": 844,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-640",
+    "width": 360,
+    "scrollWidth": 360,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 640,
+    "height": 640,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-640",
+    "width": 360,
+    "scrollWidth": 360,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 640,
+    "height": 640,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-568",
+    "width": 320,
+    "scrollWidth": 320,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "light",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 10.35
+      }
+    ],
+    "scrollHeight": 568,
+    "height": 568,
+    "formScroll": 0,
+    "overflow": false
+  },
+  {
+    "page": "register-568",
+    "width": 320,
+    "scrollWidth": 320,
+    "title": "إنشاء حساب | Mustanad Jo",
+    "headings": [
+      "ابدأ رحلتك معنا"
+    ],
+    "theme": "dark",
+    "skipTarget": true,
+    "unlabelled": 0,
+    "contrast": [
+      {
+        "selector": ".auth-label",
+        "ratio": 11.9
+      }
+    ],
+    "scrollHeight": 568,
+    "height": 568,
+    "formScroll": 0,
+    "overflow": false
+  }
+]

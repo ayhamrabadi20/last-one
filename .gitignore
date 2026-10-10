@@ -1,0 +1,33 @@
+node_modules/
+.local-data/
+.next/
+out/
+coverage/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+*-home.png
+*-journey.png
+*-sources.png
+*-ask.png
+*-explore.png
+*-login.png
+*-unsupported.png
+*-random-service.png
+*-rag-phrase.png
+.installer-cache/
+.next-server*.log
+
+# Local tooling and delivery archives are not source files.
+.agents/
+.data/
+*.zip
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Historical presentations may remain locked while open in PowerPoint.
+docs/presentation/LifeEvent-AI*

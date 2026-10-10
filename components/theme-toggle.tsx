@@ -1,0 +1,4 @@
+"use client";
+import { Moon, Sun } from "lucide-react";
+import { useTheme, type ThemeMode } from "@/components/theme-provider";
+export function ThemeToggle(){const {mode,setMode,busy}=useTheme();return <label className="focus-within:ring-2 focus-within:ring-teal-400 flex min-h-10 items-center gap-1 rounded-xl border border-slate-200 bg-white px-2 text-slate-600"><Sun size={15} className="dark:hidden"/><Moon size={15} className="hidden dark:block"/><span className="sr-only">مظهر الموقع</span><select aria-label="مظهر الموقع" disabled={busy} value={mode} onChange={event=>setMode(event.target.value as ThemeMode)} className="max-w-16 bg-transparent text-xs outline-none"><option value="light">نهاري</option><option value="dark">ليلي</option><option value="system">النظام</option></select></label>;}

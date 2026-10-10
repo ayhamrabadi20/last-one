@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-10",
+  "finalSlides": 17,
+  "pdfPages": 17,
+  "strengthsSlide": 15,
+  "roadmapSlide": 16,
+  "closingSlide": 17,
+  "pdfExport": "Microsoft PowerPoint native export",
+  "newSlidesVisuallyReviewedAfterExport": true,
+  "textBoundsIssues": [],
+  "requestedRoadmapNotesVerified": true,
+  "plannedTalkSeconds": 420,
+  "projectFunctionalityChanged": false,
+  "files": {
+    "Mustanad-Jo-Final.pptx": "c605d80f44cc3141fdd7eb34e65bb8f03642fe2cb4a45112e90574505492cad9",
+    "Mustanad-Jo-Final.pdf": "48b6b43e84cdc491c18155a8bd14007799612de34b856939c93256719fd09038"
+  },
+  "brand": "Mustanad Jo",
+  "pdfBrandTextVerified": true,
+  "submissionContainsFinalVersionOnly": true
+}

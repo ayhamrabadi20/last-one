@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mit-registration-links",
+    "sourceId": "mit-individual-establishments",
+    "text": "لتسجيل المؤسسات الفردية والأسماء التجارية، اضغط هنا. للاطلاع على دليل المستخدم الخاص بخدمة تسجيل المؤسسات الفردية والأسماء التجارية أو تعديلها، اضغط هنا. للاستعلام عن المؤسسات الفردية، الأسماء التجارية، أو غايات المؤسسات وأنشطتها، اضغط هنا. للاطلاع على دليل الخدمات الخاص بتسجيل المؤسسات الفردية أو الأسماء التجارية وتعديلاتها، اضغط هنا. للاطلاع على الدليل الوطني لتصنيف الأنشطة الاقتصادية، اضغط هنا.",
+    "page": null,
+    "section": "المؤسسات الفردية والأسماء التجارية",
+    "topicTags": ["مؤسسة فردية", "سجل تجاري", "تسجيل", "نشاط اقتصادي"],
+    "scope": ["jordan", "sole-proprietorship"],
+    "procedureIds": ["register-sole-proprietorship"],
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "mit-sanad-access",
+    "sourceId": "mit-sanad-registration",
+    "text": "للتمكن من تسجيل مؤسسة فردية او اسم تجاري واجراء المعاملات المختلفة عليها يرجى تفعيل الهوية الالكترونية وتحميل تطبيق سند والدخول الى خدمات وزارة الصناعة والتجارة.",
+    "page": null,
+    "section": "تسجيل الأسماء التجارية والمؤسسات الفردية",
+    "topicTags": ["سند", "هوية إلكترونية", "مؤسسة فردية", "اسم تجاري"],
+    "scope": ["jordan", "sole-proprietorship"],
+    "procedureIds": ["register-sole-proprietorship"],
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "gam-tenure-documents",
+    "sourceId": "gam-profession-license-2017",
+    "text": "صورة عن سند التسجيل (في حال كان صاحب الطلب مالك البناء)/عقد إيجار مصدق في حال الموقع مستأجر.",
+    "page": "بطاقة الخدمة",
+    "section": "الوثائق اللازمة لطلب الخدمة",
+    "topicTags": ["رخصة مهن", "عقد إيجار", "سند تسجيل", "مستأجر", "مالك"],
+    "scope": ["amman", "profession-license"],
+    "procedureIds": ["premises-proof-rent", "premises-proof-own", "apply-profession-license"],
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "gam-other-license-documents",
+    "sourceId": "gam-profession-license-2017",
+    "text": "إذن إشغال ساري المفعول. سجل/ اشتراك غرفة تجارة عمان أو غرفة صناعة عمان. الموافقات من الجهات المعنية. شروط الحصول على الخدمة: حسب تعليمات المهنة المراد ترخيصها.",
+    "page": "بطاقة الخدمة",
+    "section": "شروط ووثائق الخدمة",
+    "topicTags": ["رخصة مهن", "إذن إشغال", "غرفة تجارة", "موافقات"],
+    "scope": ["amman", "profession-license"],
+    "procedureIds": ["apply-profession-license"],
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "gam-license-process",
+    "sourceId": "gam-profession-license-2017",
+    "text": "تقديم طلب لدى مكتب خدمة الجمهور. مراجعة قسم التنظيم لوضع المشرحات. الكشف والشرح على المعاملة من قبل المهندس. يقوم القسم الصحي بالكشف والشرح على المعاملة (حسب نوع المهنة). بعد الحصول على موافقة اللجنة يتم الشرح على المعاملة من قبل شعبة المهن وتكليف ملف الخدمة لاستكمال متطلبات والحصول على الموافقات المطلوبة حسب نوع المهنة. بعد توفير المتطلبات يتم تحويل المعاملة للقسم المالي لتسديد التحققات والمستحقات.",
+    "page": "بطاقة الخدمة",
+    "section": "إجراءات الحصول على الخدمة",
+    "topicTags": ["رخصة مهن", "إجراءات", "كشف", "طلب"],
+    "scope": ["amman", "profession-license"],
+    "procedureIds": ["apply-profession-license"],
+    "reviewStatus": "pending"
+  },
+  {
+    "id": "gam-current-eservices",
+    "sourceId": "gam-eservices-portal",
+    "text": "قطاع شؤون التخطيط: نظام رخص المهن. قطاع الشؤون المالية: خدمة تسجيل عقود الايجار الكترونياً.",
+    "page": null,
+    "section": "بوابة الخدمات الإلكترونية",
+    "topicTags": ["رخصة مهن", "خدمات إلكترونية", "عقد إيجار"],
+    "scope": ["amman"],
+    "procedureIds": ["premises-proof-rent", "apply-profession-license"],
+    "reviewStatus": "pending"
+  }
+]
